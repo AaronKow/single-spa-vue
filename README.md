@@ -1,0 +1,1 @@
+# Single-spa demo for Vue
